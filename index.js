@@ -8,8 +8,10 @@ console.log("--------------------------------------------");
 console.log("Hi " + userName + " Welcome to this game. It is for knowing how do you know about me");
 console.log("--------------------------------------------");
 
-console.log("Note: All answers should be written in capital letters");
+console.log("Note: All answers should be written in capital letters ");
 console.log("--------------------------------------------");
+
+
 
 
 var queone = {
@@ -23,7 +25,7 @@ var quetwo = {
 }
 
 var quethree = {
-  question: "Which is my favourite sport (CRICKET/BADMINTON/FOOTBALL/HOCKEY) ",
+  question: "Which is my favourite sport (CRICKET/ BADMINTON/ FOOTBALL/ HOCKEY) ",
   answer: "CRICKET"
 }
 
